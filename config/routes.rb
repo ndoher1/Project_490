@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'main/add_user'
+
   root 'home#index'
 
   resources :posts
