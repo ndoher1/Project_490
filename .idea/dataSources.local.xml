@@ -2,5 +2,7 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="development" uuid="85c9818a-94ae-4879-a4f7-a82a09835881" />
+    <data-source name="development [2]" uuid="a8887114-a229-4b70-83b0-2e8624072377" />
+    <data-source name="development [3]" uuid="872ce078-76aa-430a-907b-4f62f467538a" />
   </component>
 </project>
